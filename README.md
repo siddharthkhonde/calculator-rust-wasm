@@ -5,7 +5,7 @@ This is a practice project that showcases a Simple Calculator written in Rust. T
 ## Demo:
 ```
 $ cargo build --target wasm32-unknown-unknown --release
-Compiling calculator v0.1.0 (/home/sidconstructs/Downloads/working/calculator-rust-wasm/calculator)
+Compiling calculator v0.1.0 (<your-working directory>/calculator)
 Finished release [optimized] target(s) in 0.04s
 $ wasmtime ./target/wasm32-unknown-unknown/release/calculator.wasm --invoke add 3 5
 
