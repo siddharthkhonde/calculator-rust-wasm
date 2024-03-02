@@ -1,6 +1,6 @@
 # A Simple 32-bit Calculator Using Rust and WebAssembly
 
-This is a practice project that showcases a Simple Calculator written in Rust. The binary is compiled using **wasm32-unknown-unknown** target and is run using **wasmtime** - A fast a secure runtime for WebAssembly.
+This is a practice project that showcases a Simple Calculator written in Rust. The binary is compiled using **wasm32-unknown-unknown** target (The Freestanding WebAssembly Target) and is run using **wasmtime** - A fast a secure runtime for WebAssembly.
 
 ## Demo:
 ```
