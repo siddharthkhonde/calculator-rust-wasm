@@ -1,0 +1,1 @@
+/home/sidconstructs/Downloads/working/calculator-rust-wasm/calculator/target/wasm32-unknown-unknown/debug/libcalculator.rlib: /home/sidconstructs/Downloads/working/calculator-rust-wasm/calculator/src/lib.rs
